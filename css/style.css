@@ -108,6 +108,11 @@ header{
   color: #FFFFFF;
 
 }
+#map{
+  height: 40px;
+  border: 3px dashed gray;
+  margin: 50px;
+}
 
 img,
 
