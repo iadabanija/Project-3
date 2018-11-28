@@ -109,7 +109,7 @@ header{
 
 }
 #map{
-  height: 40px;
+  height: 400px;
   border: 3px dashed gray;
   margin: 50px;
 }
